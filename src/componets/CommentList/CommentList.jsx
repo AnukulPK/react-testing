@@ -1,7 +1,7 @@
 import React from "react";
 
 const CommentList = () => {
-  return <div>CommentList</div>;
+  return <div>Comment List</div>;
 };
 
 export default CommentList;
